@@ -20,7 +20,7 @@
     Virtual environment
     Postgres Database
     Reliable Internet Connection
-## Installation Process
+## Installation Process.
     Copy repolink
     in your terminal run the following commands
 
