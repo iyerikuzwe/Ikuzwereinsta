@@ -38,11 +38,10 @@
     $ python3.6 manage.py runserver (this command runs the application of port http://127.0.0.1/8000 )
 ## Known Bugs
     No known bugs
-
 ## CREDITS
     Moringa School,Python Documentation, StackOverflow.com and W3 schools
 
-## Technologies Used
+## Technologies Used.
     This project uses major technologies which are :
 
     HTML5/CSS
