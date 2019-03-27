@@ -41,7 +41,7 @@
 ## CREDITS
     Moringa School,Python Documentation, StackOverflow.com and W3 schools
 
-## Technologies Used
+## Technologies Used.
     This project uses major technologies which are :
 
     HTML5/CSS
