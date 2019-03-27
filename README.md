@@ -39,7 +39,7 @@
 ## Known Bugs
     No known bugs
 
-## CREDITS
+## CREDITS.
     Moringa School,Python Documentation, StackOverflow.com and W3 schools
 
 ## Technologies Used
