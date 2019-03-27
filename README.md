@@ -1,5 +1,5 @@
 # APP NAME
-    Instagram clone.
+    Instagram clone
 ## AUTHOR
     Iyerikuzwe Regine
 
