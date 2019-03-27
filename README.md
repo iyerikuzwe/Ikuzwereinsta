@@ -59,7 +59,7 @@
 ## Link to github
     https://github.com/iyerikuzwe/Ikuzweinsta1
 
-## Deployment.
+## Deployment
     Before you can host a website externally you're first going to have to:
         1.Make a few changes to your project settings.
         2.Choose an environment for hosting the Django app.
