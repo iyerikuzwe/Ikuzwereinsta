@@ -52,7 +52,7 @@
 ## Support and Contacts
     In case You have any issues using this code please do no hesitate to get in touch with me through iyerikuzweregine19@gmail.com or leave a commit here on github.
     or 0789329012
- ## Contributing.
+ ## Contributing
     When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
 
     Please note we have a code of conduct, please follow it in all your interactions with the project.
