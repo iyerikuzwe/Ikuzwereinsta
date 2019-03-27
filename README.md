@@ -36,7 +36,7 @@
     DATABASES = { 'default': { 'ENGINE': 'django.db.backends.postgresql', 'NAME': 'instagram', 'USER': POSTGRES_USERNAME, 'PASSWORD': POSTGRES_USERNAME, } }
 
     $ python3.6 manage.py runserver (this command runs the application of port http://127.0.0.1/8000 )
-## Known Bugs.
+## Known Bugs
     No known bugs
 
 ## CREDITS
